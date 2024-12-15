@@ -1,0 +1,21 @@
+{
+    "post":[
+        {
+            "id":1,
+            "name": "Pivaga",
+            "email": "pivaga@gmail.com",
+            "mobile": 673543511,
+            "address":"Buea",
+            "services":"Food Service"
+        }
+    ],
+    "comments": [ ],
+    "signup":{
+        "name":"Pivaga",
+        "emailId": "pivaga@gmail.com",
+        "mobile":673543511,
+        "password":"1234567890",
+        "id":1
+
+    }
+}
